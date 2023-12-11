@@ -19,7 +19,7 @@ https://pranzell.github.io
 
 
 ## References and Credits
-- [https://pranzell.github.io](https://github.com/ihendley/treys)
+- https://github.com/ihendley/treys
 
 - https://machinelearningmastery.com/object-recognition-with-deep-learning/
 
