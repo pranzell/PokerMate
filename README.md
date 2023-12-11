@@ -6,7 +6,7 @@ In the magical world of poker, where fortunes change with a flip of a card, alon
 
 The tool uses image recognition, segmentation, object detection and probabilistic inference to find the strength of user's hand. So, shuffle the deck, capture those cards, and let PokerMate do the rest.
 
-[![Link to my YouTube video!]()](https://youtu.be/dBF5d8Cv15k?si=G4386bJuGCw3O5XZ)
+[![Link to my YouTube video!](https://github.com/pranzell/PokerMate/blob/72960a0c4690615aaf74c1be7dbaf3a5ea455a3f/PokerMate.png)](https://youtu.be/dBF5d8Cv15k?si=G4386bJuGCw3O5XZ)
 
 
 
