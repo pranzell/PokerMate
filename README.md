@@ -1,5 +1,6 @@
 # PokerMate | Your Smart Sidekick to Poker Wisdom
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpranzell%2FPokerMate&count_bg=%2379C83D&title_bg=%231851E3&icon=asciinema.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Summary
 In the magical world of poker, where fortunes change with a flip of a card, along comes PokerMate: an intelligent app that not only teaches you the art but also propels you towards victory. Using PokerMate is simple enough - just upload a picture of your 2 cards and the 3-5 community cards on the deck and let the magic happen. No complex steps or a know-how is needed, just a smooth journey to insightful analysis. 
