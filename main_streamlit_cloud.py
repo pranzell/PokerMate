@@ -18,6 +18,7 @@ import time
 # CONFIG
 ############################################################
 MODEL_FP        = 'models/pokermate_stage2_yolo8.pt'
+
 ############################################################
 
 # # Create a folder to store uploaded images
@@ -171,6 +172,5 @@ if __name__ == "__main__":
     
     # Loading fine-tuned model
     model = get_model(MODEL_FP)
-    st.write(model)
 
     main()
