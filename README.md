@@ -12,12 +12,17 @@ The tool uses image recognition, segmentation, object detection and probabilisti
 [![Link to my YouTube video!](https://github.com/pranzell/PokerMate/blob/72960a0c4690615aaf74c1be7dbaf3a5ea455a3f/PokerMate.png)](https://youtu.be/dBF5d8Cv15k?si=G4386bJuGCw3O5XZ)
 
 
+---
+# Try the PokerMate in action: Streamlit Playground UI
+https://pokermate.streamlit.app/
+---
+
 
 ## Project
 https://pranzell.github.io/pokermate/home.html
 
 
-## UI Demo
+## Check out the UI Demo
 https://youtu.be/7rflK2Fja0o?si=jbwCtbMQaCFljX20
 
 
