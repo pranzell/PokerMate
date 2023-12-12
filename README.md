@@ -31,9 +31,10 @@ https://pranzell.github.io/pokermate/home.html
 
 
 Stages:
-Stage 1: Image Classification
-Stage 2: Object Detection
-Stage 3: Inference (thanks to github.com/ihendley/treys!)
+
+- Stage 1: Image Classification
+- Stage 2: Object Detection
+- Stage 3: Inference (thanks to github.com/ihendley/treys!)
 
 
 ## Check out the UI Demo
