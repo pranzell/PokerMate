@@ -30,6 +30,12 @@ How to use UI:
 https://pranzell.github.io/pokermate/home.html
 
 
+Stages:
+Stage 1: Image Classification
+Stage 2: Object Detection
+Stage 3: Inference (thanks to github.com/ihendley/treys!)
+
+
 ## Check out the UI Demo
 https://youtu.be/7rflK2Fja0o?si=jbwCtbMQaCFljX20
 
