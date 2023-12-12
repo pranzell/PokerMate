@@ -34,7 +34,7 @@ https://pranzell.github.io/pokermate/home.html
 https://youtu.be/7rflK2Fja0o?si=jbwCtbMQaCFljX20
 
 ## Metrics
-![Metrics](https://github.com/pranzell/PokerMate/blob/4721e13140b48d9b9f8d27e6dddb3a0c741b5f0c/output/final_model_2.png)
+(https://github.com/pranzell/PokerMate/blob/4721e13140b48d9b9f8d27e6dddb3a0c741b5f0c/output/final_model_2.png)
 
 ## Website
 https://pranzell.github.io
