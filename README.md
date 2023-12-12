@@ -16,7 +16,9 @@ The tool uses image recognition, segmentation, object detection and probabilisti
 # Try the PokerMate in action: Streamlit Playground UI
 https://pokermate.streamlit.app/
 
+
 How to use UI:
+
 1. Search or click a photo of some playing cards except for JOKER.
 2. For best results, the picture should have 5 to 7 playing cards in it. For example, checkout the "/testing/" directory above.
 3. Upload the image (just one at a time!).
